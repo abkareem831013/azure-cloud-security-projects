@@ -25,3 +25,16 @@ Internet → NSG → Subnet → Azure Resources
 
 ## Outcome
 Successfully secured Azure network resources by enforcing strict inbound access controls using Network Security Groups.
+## Screenshots
+
+### Virtual Network Created
+![VNet](screenshots/vnet-created.png)
+
+### Network Security Group Created
+![NSG](screenshots/nsg-created.png)
+
+### NSG Inbound Rules
+![Inbound Rules](screenshots/nsg-inbound-rules.png)
+
+### NSG Associated with Subnet
+![Subnet Association](screenshots/nsg-subnet-association.png)
